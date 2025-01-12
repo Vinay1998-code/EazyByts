@@ -1,4 +1,4 @@
-# CHIT-CHAT ( The Chatting Application )
+# CHAT APP ( The Chatting Application )
 
 <h1> " About The Project "</h1>
 <br/>
