@@ -1,47 +1,24 @@
-# CHAT APP ( The Chatting Application )
+Real Time Chat Application
+It is a Web App built using PHP, MySQL, HTML, CSS, and JavaScript.
 
-<h1> " About The Project "</h1>
-<br/>
+Description
+It is a chat application that requires users to sign up first.
 
+For sign up they require to validate first with verification code.
 
-## Project Overview
+Upon successful registration, users are redirected to a user area page where they can see other signed-up users with their full name, profile image, and active status. Users can select any other user to start a chat with them.
 
-> It is a FullStack CHAT-APPLICATION made  using Mysql and backend using PHP , For FrontEnd part basic HTML,CSS,JS . Simple concept when a user trying to open the url
-> https://chatzoid-app.000webhostapp.com/  in the browser he/she will redirect to the login page because without logged in no one can chat , after logged there will be a no of users will shown to those who use this application and you can chat with them , And you can see is that user currently active or not .
+To log out, users can click on the logout button, which will redirect them to the login page and change their status to offline for other signed-up users.
 
+To enter the chatting page again, users need to log in with their registered email and password.
 
-<h4> How To Use  </h4>
+Installation
+To install ChatApp, users need to download the project's zip file, unzip it, and copy the folder to the htdocs folder of their XAMPP installation.
 
-> Step-1 
-<li> Open The Link https://chatzoid-app.000webhostapp.com/  </li>
+Then, they need to start Apache and MySQL from the XAMPP control panel.
 
-<h3> Sign up page </h3>
-<br/>
-<br/>
-<img  width="100%" src="/img/Sign up page.jpg"/>
-<h3> Login Page </h3>
-<img  width="100%" src="/img/login page.jpg"/>
-<br/>
-<br/>
-> Step-2
-<p> After Loged in to the application this is the chat interface you will redirect  </p>
-<br/>
-<br/>
-<img  width="100%" src="/img/Chat Interface.jpg"/>
-<br/>
-<br/>
-> Step-3
-<p> You Can Check here How many of users are online / offline </p>
-<br/>
-<br/>
-> Step-4
-<img  width="100%" src="/img/Chat Interface.jpg"/>
-<br/>
-<br/>
-> Step-5
-<p> This Is One sample Chat How You can Chat with Your friend  </p>
-<img  width="100%" src="/img/CHat-page.jpg"/>
-<br/>
-<br/>
+Then, open localhost/phpmyadmin in their browser, create a new database named chatapp, and import the SQL file provided in the ChatApp folder.
+
+Finally, users can open localhost/ChatApp to access the chat application.
 
 
