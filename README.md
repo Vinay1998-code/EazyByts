@@ -1,10 +1,10 @@
 Real Time Chat Application
+
 It is a Web App built using PHP, MySQL, HTML, CSS, and JavaScript.
 
-Description
-It is a chat application that requires users to sign up first.
+Description 
 
-For sign up they require to validate first with verification code.
+It is a chat application that requires users to sign up first.
 
 Upon successful registration, users are redirected to a user area page where they can see other signed-up users with their full name, profile image, and active status. Users can select any other user to start a chat with them.
 
