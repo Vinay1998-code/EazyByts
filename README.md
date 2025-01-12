@@ -3,6 +3,7 @@ Real Time Chat Application:
 It is a Web App built using PHP, MySQL, HTML, CSS, and JavaScript.
 
 Description:
+Chatapp is a responsive and feature-rich chat application built using JavaScript, HTML, CSS, PHP, and SQL. Designed to deliver seamless real-time communication, it combines a modern interface with a robust backend to support dynamic user interactions.
 
 It is a chat application that requires users to sign up first.
 
