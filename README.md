@@ -1,8 +1,8 @@
-Real Time Chat Application
+Real Time Chat Application:
 
 It is a Web App built using PHP, MySQL, HTML, CSS, and JavaScript.
 
-Description 
+Description:
 
 It is a chat application that requires users to sign up first.
 
